@@ -1,0 +1,23 @@
+.navBar {
+    background-color: #9702b0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.logo {
+    font-size: 24px;
+    letter-spacing: 3px;
+    text-decoration: none;
+    padding-left: 5vw;
+}
+
+.logo a:link, .logo a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.logo a:hover, .logo a:active {
+    text-decoration: none;
+    color: white;
+}
